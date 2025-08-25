@@ -1,0 +1,15 @@
+/workspaces/gft-bootcamp/bin/Debug/net8.0/gft-bootcamp
+/workspaces/gft-bootcamp/bin/Debug/net8.0/gft-bootcamp.deps.json
+/workspaces/gft-bootcamp/bin/Debug/net8.0/gft-bootcamp.runtimeconfig.json
+/workspaces/gft-bootcamp/bin/Debug/net8.0/gft-bootcamp.dll
+/workspaces/gft-bootcamp/bin/Debug/net8.0/gft-bootcamp.pdb
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.AssemblyInfoInputs.cache
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.AssemblyInfo.cs
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.csproj.CoreCompileInputs.cache
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.sourcelink.json
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.dll
+/workspaces/gft-bootcamp/obj/Debug/net8.0/refint/gft-bootcamp.dll
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.pdb
+/workspaces/gft-bootcamp/obj/Debug/net8.0/gft-bootcamp.genruntimeconfig.cache
+/workspaces/gft-bootcamp/obj/Debug/net8.0/ref/gft-bootcamp.dll
